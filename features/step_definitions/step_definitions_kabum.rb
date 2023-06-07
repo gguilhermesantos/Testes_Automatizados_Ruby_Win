@@ -1,6 +1,7 @@
 Dado('que eu acesse o site') do
     #Acessa o site
     visit 'https://kabum.com.br'
+    #Acesd
 end
 
 E('eu faço uma busca por {string}') do |produto|
